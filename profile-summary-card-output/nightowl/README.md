@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/chippy-ao/chippy-ao/main/profile-summary-card-output/nightowl/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/chippy-ao/chippy-ao/main/profile-summary-card-output/nightowl/4-productive-time.svg)
+```
+
+    
