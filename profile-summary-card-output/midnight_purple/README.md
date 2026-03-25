@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/chippy-ao/chippy-ao/main/profile-summary-card-output/midnight_purple/4-productive-time.svg)
-```
-
-    
